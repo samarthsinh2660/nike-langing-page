@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Button from '../components/button';
 import { arrowRight } from '../assets/icons';
 import { shoes, statistics } from '../constant/index';
-import { bigShoe1, bigShoe2, bigShoe3 } from '../assets/images';
+import { bigShoe1 } from '../assets/images';
 import ShoeCard from '../components/ShoeCard';
 
 const Hero = () => {
