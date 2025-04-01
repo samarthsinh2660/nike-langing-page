@@ -1,6 +1,6 @@
 // Hero.jsx
 import React, { useState } from 'react';
-import Button from '../components/button';
+import Button from '../components/Button';
 import { arrowRight } from '../assets/icons';
 import { shoes, statistics } from '../constant/index';
 import { bigShoe1 } from '../assets/images';
